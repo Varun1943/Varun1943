@@ -1,6 +1,6 @@
 # About Me:
 <br>hi ,  I’m Varun Anshul <br> I'm probably bad at most things — except programming.
-I design end-to-end deep learning systems for vision, RL, and prediction tasks that actually work. <br>I'm currently learning Cp and DSA<br><br>
+I design end-to-end deep learning systems for vision, RL, NLP,and prediction tasks that actually work. <br>I'm currently learning Cp and DSA<br><br>
 
 
 ## 🌐 Socials:
